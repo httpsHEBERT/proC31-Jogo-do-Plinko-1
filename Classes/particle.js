@@ -3,7 +3,7 @@ class Particle {
     constructor(x, y){
 
         var options = {
-            'restitution': 1,
+            'restitution': 0.8,
             'friction': 0,
             'isStatic': false
         }
